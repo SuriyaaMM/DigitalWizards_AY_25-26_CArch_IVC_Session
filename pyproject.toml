@@ -1,0 +1,11 @@
+[project]
+name = "digitalwizards-ay-25-26-carch-ivc-session"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jax[cuda]>=0.7.2",
+    "matplotlib>=3.10.6",
+    "seaborn>=0.13.2",
+]
