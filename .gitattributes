@@ -1,2 +1,2 @@
-git lfs track "notebooks/vectorization.ipynb"
-git lfs track "notebooks/assets/moon.png"
+notebooks/vectorization.ipynb filter=lfs diff=lfs merge=lfs -text
+notebooks/assets/moon.png filter=lfs diff=lfs merge=lfs -text
